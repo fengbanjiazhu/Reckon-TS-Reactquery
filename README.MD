@@ -1,6 +1,6 @@
 Typescript + React-Query
 
-<!-- ![图片描述](绝对路径) -->
+![React-Query](https://github.com/fengbanjiazhu/Reckon-TS-Reactquery/blob/main/react-query.jpg)
 
 install: npm i
 
